@@ -1,4 +1,4 @@
-import TestComponent from'./tutorial/01-useState/5-useState-counter'
+import TestComponent from'./tutorial/01-useState/exit-ticket'
 
 function App() {
   return (

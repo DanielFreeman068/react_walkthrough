@@ -8,6 +8,7 @@ const UseStateCounter = () => {
         setState(prevState => !prevState)
         setValue(prevCount => prevCount + 1)
     }
+
     return (
         <>
             <div>
